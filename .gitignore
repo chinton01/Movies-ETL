@@ -1,0 +1,10 @@
+# Adding config.py file
+config.py
+# Adding other files
+gitignore.txt
+ratings.csv
+Resources/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+archive/
+.ipynb_checkpoints/
